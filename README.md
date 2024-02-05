@@ -1,6 +1,6 @@
 ## Analisis Supermarket
 
-Sumber Data: [Uploading Supermarket Customers.csv…]()
+Sumber Data: [Uploading Supermarket Customers.csv…](Supermarket Customers.csv)
 
 
 Latar Belakang: Melakukan analisis terhadap efektivitas promosi suatu supermarket dan bagaiman penerimaan nya oleh pelanggan
