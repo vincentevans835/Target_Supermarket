@@ -20,7 +20,7 @@ Tableu: [Link](https://public.tableau.com/views/Capstone_17067620251360/Capstone
 4.Bagaimana pola perilaku pembelian konsumen di toko fisik dan platform online berkontribusi terhadap keputusan promosi yang tepat?  
 5.Prioritaskan promosi untuk produk yang kurang sering dibeli oleh konsumen, dengan tujuan meningkatkan kesadaran dan penjualan produk tersebut.
 
-### Setiap baris mewakili riwayat belanja 1 pelanggan dalam periode 2 tahun
+#### Setiap baris mewakili riwayat belanja 1 pelanggan dalam periode 2 tahun
 
 ### Data yang digunakan untuk analisis:  
 1.Income : Pendapatan pelanggan pertahun  
